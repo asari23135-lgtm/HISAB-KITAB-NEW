@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Noto Nastaliq Urdu', system-ui, -apple-system, sans-serif;
+  line-height: 2;
+}
+input, button, select, textarea {
+  font-family: inherit;
+}
